@@ -37,7 +37,4 @@ describe('Sign In page', () => {
         })
     })
 
-    it('test commit',()=>{
-        
-    })
 })
