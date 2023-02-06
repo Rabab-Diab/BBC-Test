@@ -36,5 +36,8 @@ describe('Sign In page', () => {
             cy.url().should('eq', 'https://www.bbc.com/')
         })
     })
-})
 
+    it('test commit',()=>{
+        
+    })
+})
